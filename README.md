@@ -1,5 +1,5 @@
 # (Browser) Cache Cleaner
-A Browser Cache Cleaner Tool Usefull for getting rid of js adware
+A Browser Cache Cleaner is a Useful Tool for getting rid of js adware
 <br style="line-height: 5px;">
 <br style="line-height: 5px;">
 <img src="https://img.shields.io/badge/version-1.0.0.0a-red" alt="Version"></img>
