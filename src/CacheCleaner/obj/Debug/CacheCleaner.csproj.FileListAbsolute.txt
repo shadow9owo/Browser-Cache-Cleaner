@@ -1,9 +1,0 @@
-C:\Users\shadowdev\Desktop\AdwCleaner\AdwCleaner\bin\Debug\CacheCleaner.exe
-C:\Users\shadowdev\Desktop\AdwCleaner\AdwCleaner\bin\Debug\CacheCleaner.pdb
-C:\Users\shadowdev\Desktop\AdwCleaner\AdwCleaner\obj\Debug\CacheCleaner.csproj.AssemblyReference.cache
-C:\Users\shadowdev\Desktop\AdwCleaner\AdwCleaner\obj\Debug\CacheCleaner.Form1.resources
-C:\Users\shadowdev\Desktop\AdwCleaner\AdwCleaner\obj\Debug\CacheCleaner.Properties.Resources.resources
-C:\Users\shadowdev\Desktop\AdwCleaner\AdwCleaner\obj\Debug\CacheCleaner.csproj.GenerateResource.cache
-C:\Users\shadowdev\Desktop\AdwCleaner\AdwCleaner\obj\Debug\CacheCleaner.csproj.CoreCompileInputs.cache
-C:\Users\shadowdev\Desktop\AdwCleaner\AdwCleaner\obj\Debug\CacheCleaner.exe
-C:\Users\shadowdev\Desktop\AdwCleaner\AdwCleaner\obj\Debug\CacheCleaner.pdb
