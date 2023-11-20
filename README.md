@@ -1,4 +1,6 @@
 # (Browser) Cache Cleaner
+status: dosent work will i fix it no :(
+
 A Browser Cache Cleaner is a Useful Tool for getting rid of Js Adware
 <br style="line-height: 5px;">
 <br style="line-height: 5px;">
